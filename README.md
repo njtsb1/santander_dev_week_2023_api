@@ -7,7 +7,7 @@ Learning to use Java 17 (LTS) to take advantage of the language's innovations an
 The persistence layer was implemented with Spring Data JPA, facilitating integration with SQL databases (such as PostgreSQL), while API documentation was automated with OpenAPI (Swagger).
 Finally, we completed the cycle with cloud deployment using Railway.
 
-## Diagram
+## [Diagram](/docs/diagram.png)
 
 ## Architecture
 
