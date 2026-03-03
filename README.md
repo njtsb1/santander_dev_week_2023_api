@@ -1,6 +1,6 @@
-# Daily Learning
+Daily Learning
 
-## API REST Spring Boot3 Java Railway
+# API REST Spring Boot3 Java Railway
 
 Project developed during the Santander 2023 Bootcamp - Java Backend, under the guidance of specialist [Venilton FalvoJr](https://github.com/falvojr "Venilton FalvoJr").
 Learning to use Java 17 (LTS) to take advantage of the language's innovations and Spring Boot 3 to maximize productivity through autoconfiguration.
@@ -19,7 +19,7 @@ Finally, we completed the cycle with cloud deployment using Railway.
 
 - Figma was used to abstract the domain of this API, being useful in the analysis and design of the solution.
 
-## Diagram
+## [Diagram](/docs/diagram.png)
 
 ```mermaid
 %%{init: {'theme':'base','themeVariables': {
